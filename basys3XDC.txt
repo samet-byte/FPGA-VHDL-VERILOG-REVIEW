@@ -1,5 +1,5 @@
 ##Taken from digilent's repository.
-## IOSTANDARD LVCMOS33 tells ıs the  signalling standards, for this board LVCMOS33 refers toLow-Voltage CMOS (with a 3.3V amplitude) single-ended.
+## IOSTANDARD LVCMOS33 tells us the signalling standards, for this board LVCMOS33 refers to Low-Voltage CMOS (with a 3.3V amplitude) single-ended.
 
 
 
